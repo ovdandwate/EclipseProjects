@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34810" started-at="2022-05-05T12:51:16 IST" finished-at="2022-05-05T12:51:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34810" started-at="2022-05-05T12:51:16 IST" finished-at="2022-05-05T12:51:50 IST">
+      <class name="multipleScreenshot.MIcrolearning">
+        <test-method status="PASS" signature="show()[pri:0, instance:multipleScreenshot.MIcrolearning@29daf3]" name="show" duration-ms="34672" started-at="2022-05-05T12:51:16 IST" finished-at="2022-05-05T12:51:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- multipleScreenshot.MIcrolearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

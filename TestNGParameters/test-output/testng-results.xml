@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43988" started-at="2022-05-06T16:09:47 IST" finished-at="2022-05-06T16:10:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43988" started-at="2022-05-06T16:09:47 IST" finished-at="2022-05-06T16:10:31 IST">
+      <class name="practiceNew.Practicetestng">
+        <test-method status="PASS" signature="b(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,int,java.lang.String)[pri:0, instance:practiceNew.Practicetestng@29daf3]" name="b" duration-ms="43910" started-at="2022-05-06T16:09:47 IST" finished-at="2022-05-06T16:10:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[omkar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dandwate]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[omkar.dandwate@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[omkarVD1994]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- practiceNew.Practicetestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
